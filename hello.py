@@ -9,3 +9,5 @@ print("My favorite character is:", favorite_character)
 
 favorite_food = "Pizza"
 print("My favorite food is:", favorite_food)
+
+print("Hi Dad")
