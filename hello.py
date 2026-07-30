@@ -7,7 +7,7 @@ print("My favorite person is:", favorite_person)
 favorite_character = "My Father"
 print("My favorite character is:", favorite_character)
 
-favorite_food = "Pizzza"
+favorite_food = "Pizza"
 print("My favorite food is:", favorite_food)
 
 print("Hi Bapu")
