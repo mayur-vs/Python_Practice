@@ -12,4 +12,3 @@ print("My favorite food is:", favorite_food)
 
 print("Hi Bapu")
 print("Hello Mom")
-a = 10
