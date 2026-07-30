@@ -11,3 +11,4 @@ favorite_food = "Pizza"
 print("My favorite food is:", favorite_food)
 
 print("Hi Dad")
+print("Hello Mom")
